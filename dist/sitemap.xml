@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+        <loc>
+            http://localhost/
+        </loc>
+        <lastmod>
+            2024-12-02T18:16:10.863Z
+        </lastmod>
+        <changefreq>
+            daily
+        </changefreq>
+        <priority>
+            1.0
+        </priority>
+        <xhtml:link rel="alternate" hreflang="de" href="http://localhost/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/en/"/>
+    </url>
+    <url>
+        <loc>
+            http://localhost/de/shop
+        </loc>
+        <lastmod>
+            2024-12-02T18:16:10.863Z
+        </lastmod>
+        <changefreq>
+            daily
+        </changefreq>
+        <priority>
+            1.0
+        </priority>
+        <xhtml:link rel="alternate" hreflang="de" href="http://localhost/de/de/shop"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/en/de/shop"/>
+    </url>
+    <url>
+        <loc>
+            http://localhost/de/info
+        </loc>
+        <lastmod>
+            2024-12-02T18:16:10.863Z
+        </lastmod>
+        <changefreq>
+            daily
+        </changefreq>
+        <priority>
+            1.0
+        </priority>
+        <xhtml:link rel="alternate" hreflang="de" href="http://localhost/de/de/info"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/en/de/info"/>
+    </url>
+    <url>
+        <loc>
+            http://localhost/de/disclaimer
+        </loc>
+        <lastmod>
+            2024-12-02T18:16:10.863Z
+        </lastmod>
+        <changefreq>
+            daily
+        </changefreq>
+        <priority>
+            1.0
+        </priority>
+        <xhtml:link rel="alternate" hreflang="de" href="http://localhost/de/de/disclaimer"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/en/de/disclaimer"/>
+    </url>
+    <url>
+        <loc>
+            http://localhost/de/contact
+        </loc>
+        <lastmod>
+            2024-12-02T18:16:10.863Z
+        </lastmod>
+        <changefreq>
+            daily
+        </changefreq>
+        <priority>
+            1.0
+        </priority>
+        <xhtml:link rel="alternate" hreflang="de" href="http://localhost/de/de/contact"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost/en/de/contact"/>
+    </url>
+</urlset>
